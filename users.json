@@ -1,0 +1,31 @@
+[
+    {
+        "uid":"simon1234",
+        "age" : 26,
+        "password" : "1234s",
+        "hobby" : "soccer",
+        "hope" : "하루에 하나씩 소화하면서 건강히 제대하겠습니다."
+    },
+    {
+        "uid": "moon2508",
+        "age" : 18,
+        "password" : "2508m",
+        "hobby" : "bowling",
+        "hope" : "열심히 하겠습니다"
+    },
+    {
+        "uid" : "ryu9012",
+        "age" : 22,
+        "password" : "9012r",
+        "hobby" : "guitar",
+        "hope" : "건강제일."
+    },
+    {
+        "uid" : "user2178",
+        "age" : 19,
+        "password" : "2178u",
+        "hobby" : "drawing",
+        "hope" : "삼대500"
+    }
+
+]
